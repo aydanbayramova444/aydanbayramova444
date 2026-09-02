@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/EMAIL-FF8FC7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br/><br/>
-<img src="https://img.shields.io/badge/-About%20Me-FFD1E8?style=flat-square" height="32"/>
+<img src="https://img.shields.io/badge/-About%20Me-FFD1E8?style=flat-square" height="40"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE4F1,100:FFE4F1&height=2" />
 
 I'm an aspiring Software Engineer currently building my skills in Java & Backend Development, while also exploring Frontend Development and learning how to integrate both sides into complete applications.
@@ -24,7 +24,7 @@ I'm currently studying Information Technology at Azerbaijan State Oil and Indust
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F76CB4,100:FFD1E8&height=6" />
 <br/>
-<img src="https://img.shields.io/badge/-Tech%20Stack-FFD1E8?style=flat-square" height="32"/>
+<img src="https://img.shields.io/badge/-Tech%20Stack-FFD1E8?style=flat-square" height="40"/>
 
 **Backend**
 
