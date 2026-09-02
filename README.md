@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F76CB4,100:FFD1E8&height=220&section=header&text=Aydan%20Bayramova&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F76CB4,100:FFD1E8&height=220&section=header&text=Aydan%20Bayramova&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Information%20Technology%20Student&descAlignY=58&descSize=20" />
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
