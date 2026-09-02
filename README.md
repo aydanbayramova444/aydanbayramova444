@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F76CB4&center=true&vCenter=true&width=800&lines=Azerbaijan+State+Oil+and+Industry+University+-+IT+Student+at+SABAH+Groups;Java+Backend+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=D6478A&center=true&vCenter=true&width=800&lines=Azerbaijan+State+Oil+and+Industry+University+-+IT+Student+at+SABAH+Groups;Java+Backend+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
